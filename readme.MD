@@ -1,8 +1,8 @@
 # enlighten.io
-----------------
 
 By Jake Mondschein
 
-Maintainers:  
+Maintainers:
 Jake Mondschein
+
 Arden Hawley
