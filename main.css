@@ -1,4 +1,41 @@
-h1, h3
+h1, h2, h3, p
 {
-  font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 5px;
+}
+
+h1 
+{
+    color:#0BDA51;
+}
+
+h3
+{
+    color:#71716e;
+    font-weight: 600;
+}
+
+p
+{
+    font-weight: 500;
+    color: #71716e;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+}
+
+#i-logo
+{
+    color: #0066CC;
+}
+
+#o-logo
+{
+    color: #FFBF00;
+}
+
+.bold-p
+{
+    font-weight: 600;
+    color: #464643;
 }
