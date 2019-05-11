@@ -28,16 +28,17 @@ header
     margin-top: 0;    
     position: fixed;
     top: 0;
+    box-shadow: 0px 0px 25px -15px #000000;
 }
 
 #spacer
 {
-    margin-top: 60px;
+    margin-top: 75px;
 }
 
 #content
 {
-    margin: 10px 20px 10px 20px;
+    margin: 20px 20px 10px 20px;
     
 }
 
