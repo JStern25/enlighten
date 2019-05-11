@@ -1,26 +1,71 @@
+* {
+    /*
+    border-width: 2px;
+    border-style: dashed;
+    border-color: blue;
+    */
+    margin: 0;
+}
+
+html
+{
+    margin: 0;
+    padding-top: 0;
+}
+
+body
+{
+    margin: 0 auto;
+    padding-top: 0;
+}
+
+header
+{
+    width: 100%;
+    text-align: center;
+    background-color: white;
+    padding:10px 0px 10px 0px;
+    margin-top: 0;    
+    position: fixed;
+    top: 0;
+}
+
+#spacer
+{
+    margin-top: 60px;
+}
+
+#content
+{
+    margin: 10px 20px 10px 20px;
+    
+}
+
 h1, h2, h3, p
 {
     font-family: 'Poppins', sans-serif;
-    padding-left: 5px;
 }
 
 h1 
 {
+    font-size: 25px;
     color:#0BDA51;
+    padding: 0 auto;
 }
 
 h3
 {
+    font-size: 18px;
     color:#71716e;
     font-weight: 600;
+    padding-bottom: 5px;
 }
 
 p
 {
+    font-size: 15px;
     font-weight: 500;
     color: #71716e;
-    padding-left: 20px;
-    padding-right: 20px;
     text-align: justify;
 }
 
@@ -29,3 +74,4 @@ p
     font-weight: 600;
     color: #464643;
 }
+
